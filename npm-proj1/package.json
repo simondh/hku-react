@@ -1,0 +1,27 @@
+{
+  "name": "npm-proj1",
+  "version": "1.0.0",
+  "description": "Basic first exercise in creating an NPM package",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simondh/hku-react.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Simon Hewitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simondh/hku-react/issues"
+  },
+  "homepage": "https://github.com/simondh/hku-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}

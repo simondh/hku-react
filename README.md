@@ -6,4 +6,4 @@
 
 And directory: `/Users/simonhewitt/Google Drive/Computers/webby/React/HKU-React`
 
-
+See notes in `<project-root>/NOTES.md`
